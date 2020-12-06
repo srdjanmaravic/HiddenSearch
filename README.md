@@ -8,4 +8,4 @@
 
 ### Demo
 
-[Live Preview]()
+[Live Preview](https://trusting-kalam-0855f3.netlify.app)
